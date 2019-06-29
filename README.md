@@ -5,7 +5,6 @@
 ブラウザ上で各種フローや図形を描画できるサービス。
 
 ## データ保存
-* データはdrawio形式
 * ローカル保存以外に、GoogleDrive、GitHub、Dropboxなどと連携できる
 * SVG出力可（jpeg,png,pdf,hmtlなど他にも様々な形式に対応）
 
